@@ -1,1 +1,1 @@
-Git is made using unix/Linex command oof version 1.
+Git is made using unix/Linex command oof version 1 and 2.
